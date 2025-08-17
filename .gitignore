@@ -1,2 +1,4 @@
 .venv
 langchain-course
+notebooks/constant.py
+notebooks/__pycache__

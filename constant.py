@@ -1,1 +1,0 @@
-openai_key = "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"
